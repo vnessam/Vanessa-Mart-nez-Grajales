@@ -1,4 +1,4 @@
 # Vanessa-Martínez-Grajales
 data-analyst-portfolio
 
-Economista certificada en análisis de datos con sólida experiencia en extracción, limpieza y modelado de datos estratégicos.
+Portfolio of Data Analysis projects using Python, SQL and visualization tools
