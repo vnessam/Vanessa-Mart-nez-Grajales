@@ -27,10 +27,6 @@ Este repositorio centraliza mis proyectos practicos y personales, donde aplico:
 En este proyecto analizo la relación entre movilidad urbana y productividad económica en ciudades de América Latina, usando datos de tráfico y variables económicas para generar insights que apoyen decisiones de inversión en infraestructura urbana.
 
 
-### 🚀 Proyecto 2 — 
----
-
-
 📫 Contacto
 
 - LinkedIn: www.linkedin.com/in/vanessa-martinez-grajales 
