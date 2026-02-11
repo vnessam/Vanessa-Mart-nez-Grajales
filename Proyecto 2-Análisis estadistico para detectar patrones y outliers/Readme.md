@@ -1,4 +1,4 @@
-Proyecto 2 ConnectaTel — Análisis de Uso de Clientes en Telecomunicaciones
+# Proyecto 2 ConnectaTel — Análisis de Uso de Clientes en Telecomunicaciones
 
 📌 Objetivo del Proyecto
 
