@@ -26,6 +26,8 @@ Este repositorio centraliza mis proyectos practicos y personales, donde aplico:
 ### 🚀 Proyecto 1 — Análisis Exploratorio de Datos - Movilidad urbana y productividad económica en ciudades de LATAM
 En este proyecto analizo la relación entre movilidad urbana y productividad económica en ciudades de América Latina, usando datos de tráfico y variables económicas para generar insights que apoyen decisiones de inversión en infraestructura urbana.
 
+### 🚀 Proyecto 2 — Análisis de una empresa de telecomunicaciones
+
 
 📫 Contacto
 
